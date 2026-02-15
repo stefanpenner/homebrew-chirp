@@ -1,6 +1,6 @@
 cask "chirp" do
   version "0.2.0"
-  sha256 :no_check # TODO: Add SHA256 when signing releases
+  sha256 "0ba495a06b82c5dd54ab24251a7ce38fb5e29fed6edd796f04bf806642144dc3"
 
   url "https://github.com/stefanpenner/chirp/releases/download/v#{version}/Chirp-v#{version}-macOS.dmg"
   name "Chirp"
