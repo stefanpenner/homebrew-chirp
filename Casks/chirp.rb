@@ -16,6 +16,6 @@ cask "chirp" do
     - Microphone: Grant when prompted on first launch
     - Accessibility: Enable in System Settings → Privacy & Security → Accessibility
 
-    The speech recognition model (~240 MB) downloads automatically on first launch.
+    The speech recognition model (~460 MB) downloads automatically on first launch.
   EOS
 end
