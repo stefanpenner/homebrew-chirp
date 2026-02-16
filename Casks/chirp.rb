@@ -1,6 +1,6 @@
 cask "chirp" do
-  version "0.3.11"
-  sha256 "3ca6efde7505dd37122ea0fa3b265d27d1c82e64f21f96f53de736e0ea52ff48"
+  version "0.3.12"
+  sha256 "a0de03df162d8526a806726d32ec9d8b5a0ec3befa6132ea97094742e2b013aa"
 
   url "https://github.com/stefanpenner/chirp/releases/download/v#{version}/Chirp-v#{version}-macOS.dmg"
   name "Chirp"
